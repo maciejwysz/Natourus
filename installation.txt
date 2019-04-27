@@ -1,0 +1,4 @@
+SCALENIE gałęzi
+git merge [nazwa gałęzi]
+git checkout master
+git merge gałąź1
